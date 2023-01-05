@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672125763 source:c:\users\asus\music\tubes\queue.cpp
+	"Queue.h"
+
+1672123212 c:\users\asus\music\tubes\queue.h
+	<iostream>
+
+1672124482 source:c:\users\asus\music\tubes\main.cpp
+	"Queue.h"
+
