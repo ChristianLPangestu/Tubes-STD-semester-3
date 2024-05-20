@@ -1,6 +1,3 @@
-Berikut adalah contoh README untuk proyek yang menggunakan struktur data antrian (Queue) dengan fungsi-fungsi untuk penjadwalan berdasarkan algoritma "First Come First Serve":
-
----
 
 # Queue Scheduling Application
 
